@@ -1,0 +1,1 @@
+# include your dev folder in your gitignore,  I can't list it here because then it wouldn't upload to github. Erase all of this and leave behind the word 'dev', save & close. you can also add your agents.md to the list , but the file has to stay in the project root, so don't move it. 
